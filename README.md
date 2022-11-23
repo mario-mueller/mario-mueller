@@ -1,6 +1,6 @@
 ![](assets/banner.png)
 
-## Hi, I'm Mario Müller 👋
+## Hi, I'm Mario 👋
 
 I am a Ph.D candidate at the [Cologne Institute for Information Systems](https://ciis.uni-koeln.de) at the [University of Cologne](https://portal.uni-koeln.de/en/).
 
